@@ -39,7 +39,7 @@ public class TestAuthenticator {
         } catch (AuthenticationException e) {
             e.printStackTrace();
         }
-        System.out.println("正常执行完毕");
+        System.out.println("正常执行完毕xiugai");
     }
 
 }
